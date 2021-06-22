@@ -13,8 +13,6 @@
         <Replace name="H:\GitHub\" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\Chetabahana\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" />
-        <File filename="C:\WINDOWS\System32\config\bbimigrate\BBI" />
         <File filename="C:\WINDOWS\System32\config\regsave\system" />
         <File filename="C:\Users\Chetabahana\source\repos\tensorflow\tensorflow\python\pycharm\main.py" />
         <File filename="C:\Users\Chetabahana\Videos\desktop.ini" />
@@ -23,13 +21,15 @@
         <File filename="C:\Users\Chetabahana\assets\_feeds\eksekusi\listener1.md" />
         <File filename="C:\Users\Chetabahana\assets\_feeds\abstrak.md" />
         <File filename="C:\Users\Chetabahana\ntuser.dat{0187c837-d32d-11eb-bca7-7c8bca04d56f}.TM.blf" />
+        <File filename="C:\Users\Chetabahana\.cloud\assets\confiig\npp\stylers.xml" />
+        <File filename="C:\Users\Chetabahana\.cloud\assets\.confiig\npp\shortcuts.xml" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="G:\GitHub\MarketLeader\Cloud-Site-API\kelola_atribut\data_terkini\Workspace" />
         <ProjectPanel id="1" workSpaceFile="" />
         <ProjectPanel id="2" workSpaceFile="" />
     </ProjectPanels>
-    <FileBrowser latestSelectedItem="C:\Users\Chetabahana">
+    <FileBrowser latestSelectedItem="C:\Users\Chetabahana\.cloud\assets\.confiig\npp\shortcuts.xml">
         <root foldername="C:\Users\Chetabahana" />
     </FileBrowser>
     <GUIConfigs>
